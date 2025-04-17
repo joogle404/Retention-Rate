@@ -4,15 +4,3 @@ title: Calculating Retention Rate at Meta
 description: A mini SQL project that analyzes monthly retention trends using cohort logic.
 theme: jekyll-theme-cayman
 
-# Optional: GitHub Pages repository settings
-repository: your-username/your-repo-name  # Replace with your actual GitHub username and repo
-markdown: kramdown
-
-# Optional settings for styling and structure
-show_downloads: false
-google_analytics:  # Add your GA tracking ID if needed
-
-# Exclude these files from GitHub Pages build
-exclude:
-  - README.md
-  - LICENSE
