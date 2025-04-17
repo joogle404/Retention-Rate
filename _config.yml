@@ -1,5 +1,24 @@
-# _config.yml
+# Site settings
+title: "Retention Analysis"
+description: "Calculating Retention Rate at Meta"
+theme: jekyll-theme-cayman # Change this to your preferred theme
+baseurl: "" # the subpath of your site, e.g., /project-name
+url: "https://yourusername.github.io" # your GitHub Pages URL
 
-title: Calculating Retention Rate at Meta
-description: A mini SQL project that analyzes monthly retention trends using cohort logic.
-theme: jekyll-theme-hacker
+# Markdown processing
+markdown: kramdown
+
+# GitHub repository settings
+repository: yourusername/yourrepositoryname # Update with your GitHub username and repo name
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from the build
+exclude:
+  - README.md
+
+# Display options
+paginate: 5 # Number of posts per page
