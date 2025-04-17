@@ -2,5 +2,4 @@
 
 title: Calculating Retention Rate at Meta
 description: A mini SQL project that analyzes monthly retention trends using cohort logic.
-theme: jekyll-theme-architect
-
+theme: jekyll-theme-dinky
